@@ -7,5 +7,4 @@ Meu nome é Karyn🤓☝️
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos`
 
 
-![gif](https://tenor.com/pt-BR/view/gojo-gojo-saotoru-jjk-)
-
+![](https://tenor.com/pt-BR/view/gojo-gojo-saotoru-jjk-)
