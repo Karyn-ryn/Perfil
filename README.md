@@ -1,6 +1,6 @@
 ### **Boas vindas ao meu perfil 💕**
 
-Meu nome é Karyn🤓☝️
+_Meu nome é Karyn🤓☝️_
 
 - Estou estudando na [Alura](https;//alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
